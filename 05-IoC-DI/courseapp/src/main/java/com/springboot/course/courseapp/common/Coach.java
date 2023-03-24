@@ -1,4 +1,4 @@
-package com.springboot.course.courseapp;
+package com.springboot.course.courseapp.common;
 
 public interface Coach {
 
